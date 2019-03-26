@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/react-blue/static/js/runtime~main.ca2e1a3b.js"
   },
   {
-    "revision": "bc4d54d2d2b0a47e332b",
-    "url": "/react-blue/static/js/main.eef2cce4.chunk.js"
+    "revision": "b94afd62283e464af7d1",
+    "url": "/react-blue/static/js/main.6bc740fd.chunk.js"
   },
   {
     "revision": "0571b69cddc311e66ec0",
     "url": "/react-blue/static/js/2.b934461c.chunk.js"
   },
   {
-    "revision": "bc4d54d2d2b0a47e332b",
+    "revision": "b94afd62283e464af7d1",
     "url": "/react-blue/static/css/main.01534e8c.chunk.css"
   },
   {
-    "revision": "82fd26a46c2be7d7e9267bd5fd80270d",
+    "revision": "4deedf30fd930c9a82629a3dfcdaabf5",
     "url": "/react-blue/index.html"
   }
 ];

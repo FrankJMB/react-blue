@@ -7,8 +7,8 @@ echo 'production in the local "build" directory (i.e. within the appropriate'
 echo 'subdirectory of "/var/jenkins_home/workspace/"), correctly bundles React'
 echo 'in production mode and optimizes the build for the best performance.'
 set -x
-npm run build
-# npm run deploy
+# npm run build
+npm run deploy
 set +x
 
 cp -aR build $WORKSPACE
